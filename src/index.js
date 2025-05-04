@@ -32,5 +32,5 @@ module.exports = {
   subtrair,
   multiplicar,
   dividir,
-  ehPar,
+  ehPar,s
 };
